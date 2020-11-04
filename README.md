@@ -20,7 +20,7 @@
 <tr>
 <th ></th>
 <th ></th>
-<th ><a herf="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01">نظریه زبانها و ماشینها</a></th>
+<th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01">نظریه زبانها و ماشینها</a></th>
 <th></th>
 <th></th>
 <th>شنبه</th>
