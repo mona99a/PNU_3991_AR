@@ -37,7 +37,7 @@
 <th ></th>
 <th ></th>
 <th></th>
-<th><a herf="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
+<th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
 <th ></th>
 <th>دوشنبه</th>
 </tr>
