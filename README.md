@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <th >انقلاب</th>
-<th > انقلاب/معماری کامپیوتر </th>
+<th > معماری کامپیوتر </th>
 <th></th>
 <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
 <th ></th>
