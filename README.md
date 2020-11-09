@@ -18,7 +18,7 @@
 <th>روز</th>
 </tr>
 <tr>
-<th ></th>
+<th >مدارهای الکتریکی و الکترونیکی</th>
 <th ></th>
 <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01">نظریه زبانها و ماشینها</a></th>
 <th></th>
@@ -29,13 +29,13 @@
 <th ></th>
 <th ></th>
 <th></th>
-<th></th>
+<th> مدیریت پروزه های فناوری اطلاعات </th>
 <th ></th>
 <th>یک شنبه</th>
 </tr>
 <tr>
 <th ></th>
-<th ></th>
+<th > معماری کامپیوتر </th>
 <th></th>
 <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
 <th ></th>
