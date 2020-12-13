@@ -8,6 +8,7 @@
 - [JavaScript_certificate](https://github.com/mona99a/PNU_3991_AR/blob/main/JavaScript_certificate/JavaScript_certificate.pdf)
 - [jlord patchwork](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
 - [latex](https://github.com/mona99a/PNU_3991_AR/tree/main/latex)
+-[latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/latex%20powerpoint)
 ------------------
 ## روز و ساعت ارائه دروس
 
