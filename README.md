@@ -1,5 +1,7 @@
 # PNU_3991_AR
 ---------
+<div dir="rtl">
+     
 # منا اندوری
 - [GitHub](https://github.com/mona99a)
 - [PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
@@ -10,7 +12,6 @@
 - [latex](https://github.com/mona99a/PNU_3991_AR/tree/main/latex)
 - [latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/powerpoint)
 ------------------
-<div dir="rtl">
 ## گروه ها
      
 1. G-Theory-of-Languages-and-Machines
@@ -27,9 +28,13 @@
      3. [ HCI-23_عسل كريم خراساني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/23_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
      4. [ HCI-15_مريم شعباني لالاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/15_%D9%85%D8%B1%D9%8A%D9%85%20%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%D9%8A%20%D9%84%D8%A7%D9%84%D8%A7%D9%86%D9%8A)
      5. [ HCI-13_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/13_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
-     </div>
 ------------------
 ## روز و ساعت ارائه دروس
+
+</div>
+
+<div dir="ltr">
+
 <table style="width:100%">
 <tr>
 <th >16-18</th>
@@ -88,6 +93,8 @@
 <th>پنج شنبه</th>
 </tr>
 </table>
+
+</div>
 
 <br>
 بعلاوه آزمایشگاه فیزیک2 +آزمایشگاه معماری کامپیوتر +آزمایشگاه مدار الکتریکی و الکترونیکی
