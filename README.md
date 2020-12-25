@@ -1,4 +1,6 @@
 # PNU_3991_AR
+
+<div dir="rtl">
 ---------
 # منا اندوری
 - [GitHub](https://github.com/mona99a)
@@ -12,6 +14,7 @@
 ------------------
 ## روز و ساعت ارائه دروس
 
+<div dir="ltr">
 <table style="width:100%">
 <tr>
 <th >16-18</th>
