@@ -1,5 +1,4 @@
 # PNU_3991_AR
-
 <div dir="rtl">
 ---------
 # منا اندوری
@@ -13,7 +12,6 @@
 - [latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/powerpoint)
 ------------------
 ## روز و ساعت ارائه دروس
-
 <div dir="ltr">
 <table style="width:100%">
 <tr>
@@ -73,7 +71,7 @@
 <th>پنج شنبه</th>
 </tr>
 </table>
-
+</div>
 <br>
 بعلاوه آزمایشگاه فیزیک2 +آزمایشگاه معماری کامپیوتر +آزمایشگاه مدار الکتریکی و الکترونیکی
-
+</div>
