@@ -12,6 +12,17 @@
 - [latex](https://github.com/mona99a/PNU_3991_AR/tree/main/latex)
 - [latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/powerpoint)
 ------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
+
+##  بخش دروس کارشناسی
+- []()
+- []()
+
+------------------
 ## گروه ها
      
 1. G-Theory-of-Languages-and-Machines
