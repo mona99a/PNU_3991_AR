@@ -12,6 +12,7 @@
 - [latex](https://github.com/mona99a/PNU_3991_AR/tree/main/latex)
 - [latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/powerpoint)
 - [طرح دستی](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%84%D8%A8%D8%A7%D8%B3.pdf)
+- [معرفی یک درس مشابه در دانشگاههای دیگر(طراحی واسط کاربر(تعامل انسان و کامپیوتر))](https://communications.uoregon.edu/content/wireframes)
 ------------------
 > ارزیابی ها
 
