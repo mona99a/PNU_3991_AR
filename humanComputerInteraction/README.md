@@ -30,7 +30,7 @@
   -  3. [ارائه رزومه](https://mona99a.github.io/resume/)
   -  4. [ارائه انگیزه نامه](https://mona99a.github.io/SOP/)
   -  5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
-  -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
+  -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/mona99a/PNU_3991_AR/blob/main/JavaScript_certificate/JavaScript_certificate.pdf)
 
 <br>
 
