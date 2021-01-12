@@ -35,13 +35,13 @@
 <br>
 
 2. **فعالیت های گروهی**
-      1.[معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
-      2.انتخاب موضوع کار گروهی
+    1.[معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
+    2.انتخاب موضوع کار گروهی
              تحلیل سایت های فروشگاه لباس انلاین 
              - [digistyle](https://www.digistyle.com/)
              - [banimode](http://banimode.com/)
              - [modiseh](https://www.modiseh.com/)
-       3. تحلیل نیازها
+    3. تحلیل نیازها
               -هر دو عضو گروه یک نمونه مشابه
               [تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
               - ارائه نیازها همه گروه با هم
@@ -63,7 +63,7 @@
               +در فوتر صفحه ی اصلی کاربر میتواند به نمادها و مجوز های سایت دسترسی داشته باشد
               +کاربر میتواند از طریق ایمیل و شماره ها یا خبر نامه با سایت در ارتباط باشد
               +در فوتر سایت کاربر میتواند به اکانت های سوشیال مدیای سایت دسترسی داشته باشد
-        4. تجربه کاربری
+      4. تجربه کاربری
                 <br>
                 - [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
                 -کتاب disigning with the Mind in Mind
