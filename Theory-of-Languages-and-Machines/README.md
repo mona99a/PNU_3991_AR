@@ -26,7 +26,7 @@
 ## سیاهه ارزشیابی درس
     
 1. **فعالیت های مشترک همه دانشجویان**
-     -  1. [ساخت اکانت گیت هاب](https://github.com/mona99a)
+  -  1. [ساخت اکانت گیت هاب](https://github.com/mona99a)
   -  2. [آموزش گیت در سایت پچ ورک](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
   -  3. [ارائه رزومه](https://mona99a.github.io/resume/)
   -  4. [ارائه انگیزه نامه](https://mona99a.github.io/SOP/)
@@ -45,5 +45,7 @@
     
 3. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
     - []() 
+    
+4.[ارزیابی]()
 
 </div>
