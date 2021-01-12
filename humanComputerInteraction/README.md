@@ -13,11 +13,11 @@
 ### اعضای گروه 
 
  HumanComputerInteraction
-     1. [ HCI-05_منا اندوري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/05_%D9%85%D9%86%D8%A7%20%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%8A)
-     2. [ HCI-23_عسل كريم خراساني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/23_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
-     3. [ HCI-15_مريم شعباني لالاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/15_%D9%85%D8%B1%D9%8A%D9%85%20%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%D9%8A%20%D9%84%D8%A7%D9%84%D8%A7%D9%86%D9%8A)
-     4. [ HCI-13_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/13_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
-     5. [_HCI-26_محمدطاها گوينده برحقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/26_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
+     - 1. [ HCI-05_منا اندوري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/05_%D9%85%D9%86%D8%A7%20%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%8A)
+     - 2. [ HCI-23_عسل كريم خراساني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/23_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
+     - 3. [ HCI-15_مريم شعباني لالاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/15_%D9%85%D8%B1%D9%8A%D9%85%20%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%D9%8A%20%D9%84%D8%A7%D9%84%D8%A7%D9%86%D9%8A)
+     - 4. [ HCI-13_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/13_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
+     - 5. [_HCI-26_محمدطاها گوينده برحقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/26_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
 
 
 ----------
@@ -35,16 +35,16 @@
 <br>
 
 2. **فعالیت های گروهی**
-     -1.[معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
+     - 1.[معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
         
-     -2. انتخاب موضوع کار گروهی
+     - 2. انتخاب موضوع کار گروهی
         تحلیل سایت های فروشگاه لباس انلاین 
         
       - [digistyle](https://www.digistyle.com/)
       - [banimode](http://banimode.com/)
       - [modiseh](https://www.modiseh.com/)
         
-     -3. تحلیل نیازها
+     - 3. تحلیل نیازها
          1-هر دو عضو گروه یک نمونه مشابه
           [تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
         <br>
@@ -70,21 +70,23 @@
         +کاربر میتواند از طریق ایمیل و شماره ها یا خبر نامه با سایت در ارتباط باشد
         +در فوتر سایت کاربر میتواند به اکانت های سوشیال مدیای سایت دسترسی داشته باشد
 
-    -4. تجربه کاربری
+    - 4. تجربه کاربری
+    
       1- [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+      
       2 -کتاب disigning with the Mind in Mind
        
        
-    -5.[طرح دستی صفحه اصلی وب سایت](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%84%D8%A8%D8%A7%D8%B3.pdf)
+    - 5.[طرح دستی صفحه اصلی وب سایت](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%84%D8%A8%D8%A7%D8%B3.pdf)
 
-    -6. وایرفریم(صفحه ی اصلی سایت)
+    - 6. وایرفریم(صفحه ی اصلی سایت)
             - [HomeScreen Wireframe-pdf]()
     
   
-    -7. ارائه    
+    - 7. ارائه    
 
 
-    -8. ارزیابی
+    - 8. ارزیابی
 
 
 </div>
