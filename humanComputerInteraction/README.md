@@ -73,7 +73,7 @@
       6. وایرفریم(صفحه ی اصلی سایت)
                 - [HomeScreen Wireframe-pdf]()
       7. ارائه    
-      8. ارزیابی
+      8. [ارزیابی](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D8%B3%20%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D8%A7%D9%86%D8%B3%D8%A7%D9%86%20%D9%88%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1/_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 
 </div>
