@@ -40,17 +40,18 @@
         
         تحلیل سایت های فروشگاه لباس انلاین  
         
-        - [digistyle](https://www.digistyle.com/)
-        - [banimode](http://banimode.com/)
-        - [modiseh](https://www.modiseh.com/)
+    - [digistyle](https://www.digistyle.com/)
+    - [banimode](http://banimode.com/)
+    - [modiseh](https://www.modiseh.com/)
         
     3. تحلیل نیازها
          
          هر دو عضو گروه یک نمونه مشابه
          
-        - [تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
+      - [تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
         <br>
          ارائه نیازها همه گروه با هم
+         
         ```diff
         + هر سه سایت مشکل رعایت فونت و رنگ داشتند 
         + عدم رعایت رنگبندی برای کور رنگ ها
@@ -73,7 +74,7 @@
 
      4. تجربه کاربری
      
-        - [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+      - [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
         
         -کتاب disigning with the Mind in Mind
        
@@ -88,7 +89,6 @@
 
 
     8. ارزیابی
-        - []() 
 
 
 </div>
