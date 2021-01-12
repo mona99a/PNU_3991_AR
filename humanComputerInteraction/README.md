@@ -4,19 +4,20 @@
 
 
 ## دروس کارشناسی
-[1322108_01 تعامل انسان و كامپيوتر ]
-[1115157_02 نظریه زبان ها و ماشین ]
+1322108_01 تعامل انسان و كامپيوتر 
+1115157_02 نظریه زبان ها و ماشین 
 
 ------------------------
 
 ### اعضای گروه 
-<br>
 
+ HumanComputerInteraction
      1. [ HCI-05_منا اندوري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/05_%D9%85%D9%86%D8%A7%20%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%8A)
      2. [ HCI-23_عسل كريم خراساني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/23_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
      3. [ HCI-15_مريم شعباني لالاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/15_%D9%85%D8%B1%D9%8A%D9%85%20%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%D9%8A%20%D9%84%D8%A7%D9%84%D8%A7%D9%86%D9%8A)
      4. [ HCI-13_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/13_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
      5. [_HCI-26_محمدطاها گوينده برحقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/26_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
+
 
 ----------
 
@@ -37,7 +38,8 @@
         
    - 2. انتخاب موضوع کار گروهی
         
-        +تحلیل سایت های فروشگاه لباس انلاین
+        تحلیل سایت های فروشگاه لباس انلاین  
+        
         - [digistyle](https://www.digistyle.com/)
         - [banimode](http://banimode.com/)
         - [modiseh](https://www.modiseh.com/)
@@ -52,7 +54,6 @@
         + مشکل نوشته شدن متن ها در سایت
         + نداشتن بک گراند و زیبایی بصری
         + نداشتن منو متحرک برای دسترسی راحت کاربران به اجناس مورد نیازشان
-        <br>
         +در ابتدا صفحه ی اصلی باز خواهد شد
         +ایتم هایی که کاربر ابتدا مشاهده میکند شامل سبد خرید ورود به سایت قسمت سرچ و منو
         +کاربر میتواند با کلیک بر روی ایتم سبد خرید سبد خرید خود را مشاهده کند
@@ -67,7 +68,7 @@
         +در فوتر سایت کاربر میتواند به اکانت های سوشیال مدیای سایت دسترسی داشته باشد
 
      4. تجربه کاربری
-        - [ دوره طراحی رابط کاربرUI](https://toplearn.com)
+        - [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
         -کتاب disigning with the Mind in Mind
        
     5. طرح دستی(صفحه ی اصلی سایت)
