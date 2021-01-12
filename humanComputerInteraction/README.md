@@ -77,7 +77,7 @@
       2 -کتاب disigning with the Mind in Mind
        
        
-    5. - [طرح دستی صفحه اصلی وب سایت](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%84%D8%A8%D8%A7%D8%B3.pdf)
+    5.[طرح دستی صفحه اصلی وب سایت](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%84%D8%A8%D8%A7%D8%B3.pdf)
 
     6. وایرفریم(صفحه ی اصلی سایت)
             - [HomeScreen Wireframe-pdf]()
