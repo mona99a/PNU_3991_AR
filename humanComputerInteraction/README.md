@@ -37,14 +37,14 @@
 2. **فعالیت های گروهی**
     1. [معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
     2. انتخاب موضوع کار گروهی
-              -تحلیل سایت های فروشگاه لباس انلاین 
-              - [digistyle](https://www.digistyle.com/)
-              - [banimode](http://banimode.com/)
-              - [modiseh](https://www.modiseh.com/)
+           -تحلیل سایت های فروشگاه لباس انلاین 
+          - [digistyle](https://www.digistyle.com/)
+          - [banimode](http://banimode.com/)
+          - [modiseh](https://www.modiseh.com/)
     3. تحلیل نیازها
-              -هر دو عضو گروه یک نمونه مشابه
-              [تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
-              - ارائه نیازها همه گروه با هم
+           -هر دو عضو گروه یک نمونه مشابه
+           [تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
+          - ارائه نیازها همه گروه با هم
           
               ```diff
               + هر سه سایت مشکل رعایت فونت و رنگ داشتند 
