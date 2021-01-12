@@ -15,6 +15,7 @@
 - [معرفی یک درس مشابه در دانشگاههای دیگر(طراحی واسط کاربر(تعامل انسان و کامپیوتر))](https://communications.uoregon.edu/content/wireframes)
 - [تحلیل سایت](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
 - [درس تعامل انسان و کامپیوتر](https://github.com/mona99a/PNU_3991_AR/blob/main/humanComputerInteraction/README.md)
+- [درس نظریه زبانها و ماشینها](https://github.com/mona99a/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 ------------------
 > ارزیابی ها
 
