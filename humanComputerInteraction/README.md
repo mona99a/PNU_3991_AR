@@ -34,7 +34,9 @@
 <br>
 
 2. **فعالیت های گروهی**
-    1. [معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
+    1. معرفی یک درس مشابه در دانشگاههای دیگر
+          -[1](https://studies.ku.dk/masters/computer-science/programme-structure/recommended_studytracks/hci/)
+          -[2](https://communications.uoregon.edu/content/wireframes)
     2. انتخاب موضوع کار گروهی
            -تحلیل سایت های فروشگاه لباس انلاین 
           - [digistyle](https://www.digistyle.com/)
