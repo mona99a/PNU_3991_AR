@@ -10,7 +10,7 @@
 - [JavaScript_certificate](https://github.com/mona99a/PNU_3991_AR/blob/main/JavaScript_certificate/JavaScript_certificate.pdf)
 - [jlord patchwork](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
 ---------
-## [درس نظریه زبانها و ماشینها](https://github.com/mona99a/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+### [درس نظریه زبانها و ماشینها](https://github.com/mona99a/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 - [latex](https://github.com/mona99a/PNU_3991_AR/tree/main/latex)
 - [latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/powerpoint)
 ---------
