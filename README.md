@@ -9,12 +9,12 @@
 - [SOP](https://mona99a.github.io/SOP/)
 - [JavaScript_certificate](https://github.com/mona99a/PNU_3991_AR/blob/main/JavaScript_certificate/JavaScript_certificate.pdf)
 - [jlord patchwork](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
----------
-- [درس نظریه زبانها و ماشینها](https://github.com/mona99a/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+
+# [درس نظریه زبانها و ماشینها](https://github.com/mona99a/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 - [latex](https://github.com/mona99a/PNU_3991_AR/tree/main/latex)
 - [latex_powerpoint](https://github.com/mona99a/PNU_3991_AR/tree/main/powerpoint)
----------
-- [درس تعامل انسان و کامپیوتر](https://github.com/mona99a/PNU_3991_AR/blob/main/humanComputerInteraction/README.md)
+
+# [درس تعامل انسان و کامپیوتر](https://github.com/mona99a/PNU_3991_AR/blob/main/humanComputerInteraction/README.md)
 - معرفی یک درس مشابه در دانشگاههای دیگر<br>
           - [1.university of copenhagen](https://studies.ku.dk/masters/computer-science/programme-structure/recommended_studytracks/hci/)<br>
           - [2.university of oregon](https://communications.uoregon.edu/content/wireframes)
