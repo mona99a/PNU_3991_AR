@@ -1,3 +1,3 @@
 - معرفی یک درس مشابه در دانشگاههای دیگر<br>
-          - [1.university of copenhagen](https://studies.ku.dk/masters/computer-science/programme-structure/recommended_studytracks/hci/)<br>
-          - [2.university of oregon](https://communications.uoregon.edu/content/wireframes)
+          - [oxford](https://global.oup.com/academic/category/science-and-mathematics/computer-science/human-computer-interaction/?cc=ro&lang=en&)<br>
+          - [university of oregon](https://communications.uoregon.edu/content/wireframes)
