@@ -5,7 +5,7 @@
 # منا اندوری
 - [GitHub](https://github.com/mona99a)
 - [PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
-- [Resume](https://mona99a.github.io/resume/)
+- [Resume](https://mona99a.github.io/rezome/)
 - [SOP](https://mona99a.github.io/SOP/)
 - [JavaScript_certificate](https://github.com/mona99a/PNU_3991_AR/blob/main/JavaScript_certificate/JavaScript_certificate.pdf)
 - [jlord patchwork](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
