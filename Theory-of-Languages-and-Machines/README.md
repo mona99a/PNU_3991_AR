@@ -27,7 +27,7 @@
 1. **فعالیت های مشترک همه دانشجویان**
   -  1. [ساخت اکانت گیت هاب](https://github.com/mona99a)
   -  2. [آموزش گیت در سایت پچ ورک](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
-  -  3. [ارائه رزومه](https://mona99a.github.io/resume/)
+  -  3. [ارائه رزومه](https://mona99a.github.io/rezome/)
   -  4. [ارائه انگیزه نامه](https://mona99a.github.io/SOP/)
   -  5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
   -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/mona99a/PNU_3991_AR/blob/main/JavaScript_certificate/JavaScript_certificate.pdf)
